@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Este es el texto de la hoja 1, con una modificación.
+=======
+Este es el texto de la hoja 1
+
+Mi nombre es Laura ALejandra, y estoy agregando texto a la Hoja1 creada por Johana Ramos.
+>>>>>>> a7f76bcf1f54cfd7b060662b81ce355abb14e242
